@@ -1,4 +1,4 @@
-# prog2.2024.practico01
+# Practico 1
 
 Consigna
 Realizar cada item en una branch diferente, cada branch debe partir de la anterior sin necesidad de hacer merge previamente.
