@@ -1,4 +1,5 @@
 package despensa;
+
 import ingredientes.Ingrediente;
 
 public class Despensa {
